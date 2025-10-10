@@ -1,2 +1,3 @@
 DevOps in the SDLC improves collaboration, automation, testing, and reliable releases through CI/CD.
 Benefits: faster feedback, fewer integration issues, repeatable deployments.
+commits must be made locally
