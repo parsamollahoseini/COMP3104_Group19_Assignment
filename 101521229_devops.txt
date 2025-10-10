@@ -1,1 +1,2 @@
 COMP 3104 covers Git/GitHub workflows, branching, and CI using GitHub Actions/Travis to practice DevOps. (technology focus)
+Topics: branching, PRs, code review, CI triggers, workflow files.
