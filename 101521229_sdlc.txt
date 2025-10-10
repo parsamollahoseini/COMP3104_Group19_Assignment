@@ -1,0 +1,1 @@
+DevOps in the SDLC improves collaboration, automation, testing, and reliable releases through CI/CD.
