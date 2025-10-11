@@ -1,0 +1,9 @@
+Importance of DevOps in Software Development Life Cycle
+
+SDLC has a traditional phase of planning, development, testing, deployment and maintenance.
+
+DevOps changes that by integrating development and integration throughout every SDLC stages, 
+promoting automation, collaboration, and continuous feedback.
+
+With that learning DevOps and its importance in SDLC would be very beneficial to any aspiring software engineers as 
+you would learn to automate, collaborate and provide continous feedback in each step of the SDLC stage.
