@@ -18,4 +18,20 @@ Final Exam - 30%
 
 Total of 100% and the passing grade for this course is D 50%
 
-
+Topical Outline
+Week - Topic 
+1 - Intro, BASH & The CLI
+2 - Git, GitHub & more BASH
+3 - Version Control for DevOps
+4 - Developer Operations Landscape
+5 - Hosting High Geared Single Page Applications & Work tracking tools
+6 - Continuous Integration / Continuous Deployment
+7 - MID-TERM EXAM
+8 - INTERSESSION WEEK
+9 - CI/CD Pipeline Sequences
+10 - Working with Cloud Infrastructure
+11 - Automating DevOps & Quality assurance
+12 - DevOps Assembly Lines
+13 - Commonly Used DevOps Tech Exposed
+14 - Transitioning into the role of DevOp
+15 - FINAL EXAM
