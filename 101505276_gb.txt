@@ -4,3 +4,14 @@ Campus: Casa Loma
 Address: 500 Macpherson Ave, Toronto, ON M5R 1M3
 Phone No.: (416) 415-2000
 Province: Ontario
+
+Campus: St. James campus
+Address: 200 King Street East
+Phone No.: (416) 415-2000
+Province: Ontario
+
+Campus: Waterfront Campus
+Address: 51 Dockside Dr, Toronto, ON M5A 1B6
+Phone No.: (416) 415-2000
+Province: Ontario
+
