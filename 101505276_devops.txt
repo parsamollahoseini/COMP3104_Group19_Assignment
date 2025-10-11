@@ -6,3 +6,16 @@ engineer brings to a workplace environment to increase productivity. Analyze and
 various developer operation implementations available and implement hands-on work using
 industry standard toolkit. Create solutions to complex business problems by adhering to the core
 responsibilities of DevOps
+
+
+EVALUATION SYSTEM:
+Lab Exercises - 8 of 10 - 16%
+Quiz - 8 of 10 - 8%
+Assignment Individual - 10% 
+Assignment Group - 16%
+Mid-term Exam - 20%
+Final Exam - 30%
+
+Total of 100% and the passing grade for this course is D 50%
+
+
