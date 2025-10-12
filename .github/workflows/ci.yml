@@ -1,0 +1,16 @@
+name: GitHub Actions Demo
+on: [push]
+
+jobs:
+  explore:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Show trigger info
+        run: |
+          echo "🎉 Triggered by $GITHUB_EVENT_NAME on $GITHUB_REF"
+          echo "Repo: $GITHUB_REPOSITORY | Runner OS: $RUNNER_OS"
+      - name: List workspace files
+        run: ls "$GITHUB_WORKSPACE"
+      - name: Show job status
+        run: echo "🍏 Job completed successfully"
