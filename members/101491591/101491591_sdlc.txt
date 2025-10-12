@@ -1,0 +1,1 @@
+DevOps in SDLC: continuous integration/testing, faster feedback, reliable releases.
