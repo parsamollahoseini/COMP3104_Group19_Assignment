@@ -1,0 +1,8 @@
+IMPORTANCE OF DEVOPS IN SOFTWARE DEVELOPMENT LIFECYCLE (SDLC)
+
+Student: Mehrad Bayat
+Student ID: 101533701
+
+Introduction:
+DevOps plays a crucial role in modern Software Development Lifecycle (SDLC) by bridging the gap between development and operations teams.
+It transforms how software is built, tested, deployed, and maintained in production environments.
