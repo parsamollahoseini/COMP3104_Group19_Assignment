@@ -12,3 +12,18 @@ Founded in 1967, it is named after George Brown, a 19th-century Canadian politic
 History:
 The college was established to provide career-oriented education and training to students.
 It has grown significantly over the years and now serves over 30,000 full-time students and 70,000 continuing education students annually.
+
+Campuses:
+George Brown College operates three main campuses in downtown Toronto:
+1. St. James Campus - Located in the heart of downtown Toronto
+2. Casa Loma Campus - Situated near Casa Loma castle
+3. Waterfront Campus - Modern campus overlooking Lake Ontario
+
+Programs Offered:
+- Arts, Design & Information Technology
+- Business
+- Community Services & Early Childhood
+- Construction & Engineering Technologies
+- Health Sciences
+- Hospitality & Culinary Arts
+- Preparatory Studies
