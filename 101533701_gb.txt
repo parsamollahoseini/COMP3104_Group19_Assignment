@@ -7,3 +7,8 @@ Program: Computer Systems Technology
 
 About George Brown College:
 George Brown College (GBC) is a public college of applied arts and technology located in Toronto, Ontario, Canada.
+Founded in 1967, it is named after George Brown, a 19th-century Canadian politician and newspaper publisher.
+
+History:
+The college was established to provide career-oriented education and training to students.
+It has grown significantly over the years and now serves over 30,000 full-time students and 70,000 continuing education students annually.
