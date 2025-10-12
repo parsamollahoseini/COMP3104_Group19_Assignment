@@ -15,3 +15,18 @@ Key Learning Objectives:
 5. Infrastructure as Code (IaC)
 6. Monitoring and logging practices
 7. Agile methodologies and collaboration tools
+
+Tools and Technologies Covered:
+- Git and GitHub for version control
+- GitHub Actions and Travis CI for CI/CD pipelines
+- Docker for containerization
+- Jenkins for automation
+- Terraform for infrastructure management
+- Ansible for configuration management
+- Prometheus and Grafana for monitoring
+
+Course Benefits:
+- Hands-on experience with industry-standard DevOps tools
+- Understanding of modern software delivery practices
+- Preparation for DevOps roles in the industry
+- Enhanced collaboration and teamwork skills
