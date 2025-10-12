@@ -1,0 +1,8 @@
+COMP3104 - DEVOPS COURSE INFORMATION
+
+Student: Mehrad Bayat
+Student ID: 101533701
+
+Course Overview:
+COMP3104 is a comprehensive DevOps course that teaches modern software development and operations practices.
+This course focuses on automation, continuous integration, continuous deployment, and collaboration between development and operations teams.
