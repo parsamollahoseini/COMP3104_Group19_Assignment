@@ -1,0 +1,9 @@
+GEORGE BROWN COLLEGE - INFORMATION
+
+Student: Mehrad Bayat
+Student ID: 101533701
+Course: COMP3104 - DevOps
+Program: Computer Systems Technology
+
+About George Brown College:
+George Brown College (GBC) is a public college of applied arts and technology located in Toronto, Ontario, Canada.
