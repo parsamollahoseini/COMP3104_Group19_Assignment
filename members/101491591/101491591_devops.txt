@@ -1,2 +1,2 @@
-COMP 3104 DevOps: collaboration with Git, branching, CI/CD, PRs, README updates.
+COMP 3104 DevOps: collaboration with Git, branching, CI/CD, PRs, README updates. (team collaboration, CI, PR reviews)
 - Tools: Git, branching, CI using GitHub Actions.
