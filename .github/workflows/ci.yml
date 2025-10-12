@@ -1,0 +1,11 @@
+name: GitHub Actions Demo
+on: [push]
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: echo "🎉 Triggered by ${{ github.event_name }} on ${{ github.ref }}"
+      - run: echo "Repo: ${{ github.repository }} | Runner OS: ${{ runner.os }}"
+      - run: ls ${{ github.workspace }}
+      - run: echo "🍏 Job status: ${{ job.status }}"
