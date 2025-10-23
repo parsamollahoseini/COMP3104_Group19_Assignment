@@ -9,7 +9,7 @@ Assignment repo for DevOps (branches + CI).
 | Leader   | Parsa Molahosseini          | 101491591   | https://github.com/parsamollahoseini |
 | Member 1 | Kevin George Buhain         | 101505276   | https://github.com/rozeluxe01 |
 | Member 2 | Jerry-lee Somera            | 101521229   | https://github.com/LoudMouthLemon |
-| Member 3 | Mehrad Bayat                | 101533701   | https://github.com/mehbayat  *(placeholder – update if needed)* |
+| Member 3 | Mehrad Bayat                | 101533701   | https://github.com/mehbayat  *(used another account)* |
 
 ---
 
