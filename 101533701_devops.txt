@@ -1,0 +1,32 @@
+COMP3104 - DEVOPS COURSE INFORMATION
+
+Student: Mehrad Bayat
+Student ID: 101533701
+
+Course Overview:
+COMP3104 is a comprehensive DevOps course that teaches modern software development and operations practices.
+This course focuses on automation, continuous integration, continuous deployment, and collaboration between development and operations teams.
+
+Key Learning Objectives:
+1. Understanding DevOps culture and principles
+2. Version control systems (Git and GitHub)
+3. Continuous Integration and Continuous Deployment (CI/CD)
+4. Containerization and orchestration (Docker, Kubernetes)
+5. Infrastructure as Code (IaC)
+6. Monitoring and logging practices
+7. Agile methodologies and collaboration tools
+
+Tools and Technologies Covered:
+- Git and GitHub for version control
+- GitHub Actions and Travis CI for CI/CD pipelines
+- Docker for containerization
+- Jenkins for automation
+- Terraform for infrastructure management
+- Ansible for configuration management
+- Prometheus and Grafana for monitoring
+
+Course Benefits:
+- Hands-on experience with industry-standard DevOps tools
+- Understanding of modern software delivery practices
+- Preparation for DevOps roles in the industry
+- Enhanced collaboration and teamwork skills
