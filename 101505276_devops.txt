@@ -1,0 +1,37 @@
+Course Code: COMP3104
+Course Name: DevOps
+
+Course Description: In this course students will learn the procedures, protocols and best practices that a DevOps
+engineer brings to a workplace environment to increase productivity. Analyze and evaluate
+various developer operation implementations available and implement hands-on work using
+industry standard toolkit. Create solutions to complex business problems by adhering to the core
+responsibilities of DevOps
+
+
+EVALUATION SYSTEM:
+Lab Exercises - 8 of 10 - 16%
+Quiz - 8 of 10 - 8%
+Assignment Individual - 10% 
+Assignment Group - 16%
+Mid-term Exam - 20%
+Final Exam - 30%
+
+Total of 100% and the passing grade for this course is D 50%
+
+Topical Outline
+Week - Topic 
+1 - Intro, BASH & The CLI
+2 - Git, GitHub & more BASH
+3 - Version Control for DevOps
+4 - Developer Operations Landscape
+5 - Hosting High Geared Single Page Applications & Work tracking tools
+6 - Continuous Integration / Continuous Deployment
+7 - MID-TERM EXAM
+8 - INTERSESSION WEEK
+9 - CI/CD Pipeline Sequences
+10 - Working with Cloud Infrastructure
+11 - Automating DevOps & Quality assurance
+12 - DevOps Assembly Lines
+13 - Commonly Used DevOps Tech Exposed
+14 - Transitioning into the role of DevOp
+15 - FINAL EXAM

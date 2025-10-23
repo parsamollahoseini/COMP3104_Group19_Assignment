@@ -1,5 +1,6 @@
 # COMP3104_Group19_Assignment
 
+<<<<<<< HEAD
 ## Overview
 Assignment repo for DevOps (branches + CI).
 
@@ -24,3 +25,10 @@ Each member works on a separate branch named **STUDENTID-Name**,
 for example:  
 `101491591-Parsa`, `101505276-KevinGeorge`, `101521229-Jerry-lee`, and `101533701-Mehrad`.  
 All branches are merged into `main` via Pull Requests after passing CI checks.
+=======
+## GROUP MEMBERS
+- **LEADER** Parsa Molahosseini
+- **MEMBER 2:** Mehrad Bayat
+- **MEMBER 3:** Jerry-Lee Somera
+- **MEMBER 4:** KEVIN GEORGE BUHAIN (101505276) - [GitHub] https://github.com/rozeluxe01
+>>>>>>> origin/101505276-KevinGeorge
